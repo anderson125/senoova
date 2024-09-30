@@ -1,0 +1,144 @@
+14:54:36  [main] 	Initializing Control Panel
+14:54:36  [main] 	Windows Version:  Enterprise  64-bit
+14:54:37  [main] 	XAMPP Version: 7.4.28
+14:54:37  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+14:54:37  [main] 	Running with Administrator rights - good!
+14:54:37  [main] 	XAMPP Installation Directory: "c:\xampp\"
+14:54:37  [main] 	Checking for prerequisites
+14:54:41  [main] 	All prerequisites found
+14:54:41  [main] 	Initializing Modules
+14:54:41  [main] 	The FileZilla module is disabled
+14:54:41  [main] 	The Mercury module is disabled
+14:54:41  [main] 	Starting Check-Timer
+14:54:41  [main] 	Control Panel Ready
+14:54:43  [Apache] 	Attempting to start Apache app...
+14:54:43  [Apache] 	Status change detected: running
+14:54:49  [mysql] 	Attempting to start MySQL app...
+14:54:49  [mysql] 	Status change detected: running
+15:06:01  [Apache] 	Attempting to stop Apache (PID: 5980)
+15:06:01  [Apache] 	Attempting to stop Apache (PID: 4760)
+15:06:01  [Apache] 	Status change detected: stopped
+15:06:02  [mysql] 	Attempting to stop MySQL app...
+15:06:02  [mysql] 	Status change detected: stopped
+15:06:03  [Apache] 	Attempting to start Apache app...
+15:06:03  [Apache] 	Status change detected: running
+15:06:04  [mysql] 	Attempting to start MySQL app...
+15:06:04  [mysql] 	Status change detected: running
+15:29:47  [Apache] 	Attempting to stop Apache (PID: 4932)
+15:29:47  [Apache] 	Attempting to stop Apache (PID: 4392)
+15:29:47  [Apache] 	Status change detected: stopped
+15:29:47  [mysql] 	Attempting to stop MySQL app...
+15:29:48  [mysql] 	Status change detected: stopped
+15:30:28  [main] 	Deinitializing Modules
+15:30:28  [main] 	Deinitializing Control Panel
+
+17:05:39  [main] 	Initializing Control Panel
+17:05:39  [main] 	Windows Version:  Enterprise  64-bit
+17:05:39  [main] 	XAMPP Version: 7.4.28
+17:05:39  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+17:05:39  [main] 	Running with Administrator rights - good!
+17:05:39  [main] 	XAMPP Installation Directory: "c:\xampp\"
+17:05:39  [main] 	Checking for prerequisites
+17:05:39  [main] 	All prerequisites found
+17:05:39  [main] 	Initializing Modules
+17:05:39  [main] 	The FileZilla module is disabled
+17:05:39  [main] 	The Mercury module is disabled
+17:05:39  [main] 	Starting Check-Timer
+17:05:39  [main] 	Control Panel Ready
+17:05:42  [Apache] 	Attempting to start Apache app...
+17:05:43  [Apache] 	Status change detected: running
+17:05:44  [mysql] 	Attempting to start MySQL app...
+17:05:44  [mysql] 	Status change detected: running
+17:15:37  [main] 	Deinitializing Modules
+17:15:37  [main] 	Deinitializing Control Panel
+
+9:26:39  [main] 	Initializing Control Panel
+9:26:39  [main] 	Windows Version:  Enterprise  64-bit
+9:26:39  [main] 	XAMPP Version: 7.4.28
+9:26:39  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+9:26:39  [main] 	Running with Administrator rights - good!
+9:26:39  [main] 	XAMPP Installation Directory: "c:\xampp\"
+9:26:39  [main] 	Checking for prerequisites
+9:26:50  [main] 	All prerequisites found
+9:26:50  [main] 	Initializing Modules
+9:26:50  [main] 	The FileZilla module is disabled
+9:26:50  [main] 	The Mercury module is disabled
+9:26:50  [main] 	Starting Check-Timer
+9:26:50  [main] 	Control Panel Ready
+9:27:02  [Apache] 	Attempting to start Apache app...
+9:27:03  [Apache] 	Status change detected: running
+9:27:11  [mysql] 	Attempting to start MySQL app...
+9:27:11  [mysql] 	Status change detected: running
+9:28:55  [Apache] 	Attempting to stop Apache (PID: 2348)
+9:28:55  [Apache] 	Attempting to stop Apache (PID: 3136)
+9:28:55  [Apache] 	Status change detected: stopped
+9:28:56  [mysql] 	Attempting to stop MySQL app...
+9:28:56  [mysql] 	Status change detected: stopped
+9:29:32  [main] 	Deinitializing Modules
+9:29:32  [main] 	Deinitializing Control Panel
+
+10:41:50  [main] 	Initializing Control Panel
+10:41:50  [main] 	Windows Version:  Enterprise  64-bit
+10:41:50  [main] 	XAMPP Version: 7.4.28
+10:41:50  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+10:41:50  [main] 	Running with Administrator rights - good!
+10:41:50  [main] 	XAMPP Installation Directory: "c:\xampp\"
+10:41:50  [main] 	Checking for prerequisites
+10:41:50  [main] 	All prerequisites found
+10:41:50  [main] 	Initializing Modules
+10:41:50  [main] 	The FileZilla module is disabled
+10:41:50  [main] 	The Mercury module is disabled
+10:41:50  [main] 	Starting Check-Timer
+10:41:50  [main] 	Control Panel Ready
+10:41:51  [Apache] 	Attempting to start Apache app...
+10:41:51  [Apache] 	Status change detected: running
+10:41:54  [mysql] 	Attempting to start MySQL app...
+10:41:54  [mysql] 	Status change detected: running
+11:07:14  [Apache] 	Attempting to stop Apache (PID: 6932)
+11:07:14  [Apache] 	Attempting to stop Apache (PID: 3660)
+11:07:15  [Apache] 	Status change detected: stopped
+11:07:15  [mysql] 	Attempting to stop MySQL app...
+11:07:16  [mysql] 	Status change detected: stopped
+11:07:20  [Apache] 	Attempting to start Apache app...
+11:07:20  [Apache] 	Status change detected: running
+11:07:20  [mysql] 	Attempting to start MySQL app...
+11:07:20  [mysql] 	Status change detected: running
+12:15:09  [main] 	Deinitializing Modules
+12:15:09  [main] 	Deinitializing Control Panel
+
+11:40:17  [main] 	Initializing Control Panel
+11:40:17  [main] 	Windows Version:  Enterprise  64-bit
+11:40:17  [main] 	XAMPP Version: 7.4.28
+11:40:17  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+11:40:17  [main] 	Running with Administrator rights - good!
+11:40:17  [main] 	XAMPP Installation Directory: "c:\xampp\"
+11:40:17  [main] 	Checking for prerequisites
+11:40:18  [main] 	All prerequisites found
+11:40:18  [main] 	Initializing Modules
+11:40:18  [main] 	The FileZilla module is disabled
+11:40:18  [main] 	The Mercury module is disabled
+11:40:18  [main] 	Starting Check-Timer
+11:40:18  [main] 	Control Panel Ready
+11:40:21  [Apache] 	Attempting to start Apache app...
+11:40:21  [Apache] 	Status change detected: running
+11:40:22  [mysql] 	Attempting to start MySQL app...
+11:40:22  [mysql] 	Status change detected: running
+17:56:32  [Apache] 	Status change detected: stopped
+17:56:32  [Apache] 	Error: Apache shutdown unexpectedly.
+17:56:32  [Apache] 	This may be due to a blocked port, missing dependencies, 
+17:56:32  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+17:56:32  [Apache] 	Press the Logs button to view error logs and check
+17:56:32  [Apache] 	the Windows Event Viewer for more clues
+17:56:32  [Apache] 	If you need more help, copy and post this
+17:56:32  [Apache] 	entire log window on the forums
+17:56:32  [mysql] 	Status change detected: stopped
+17:56:32  [mysql] 	Error: MySQL shutdown unexpectedly.
+17:56:32  [mysql] 	This may be due to a blocked port, missing dependencies, 
+17:56:32  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+17:56:32  [mysql] 	Press the Logs button to view error logs and check
+17:56:32  [mysql] 	the Windows Event Viewer for more clues
+17:56:32  [mysql] 	If you need more help, copy and post this
+17:56:32  [mysql] 	entire log window on the forums
+17:56:32  [main] 	Deinitializing Modules
+17:56:32  [main] 	Deinitializing Control Panel
+
